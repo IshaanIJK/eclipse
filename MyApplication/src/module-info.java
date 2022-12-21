@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ishaankadam
+ *
+ */
+module MyApplication {
+}
