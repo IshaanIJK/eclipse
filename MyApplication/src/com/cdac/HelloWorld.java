@@ -1,5 +1,6 @@
 package com.cdac;
 
+import java.time.LocalTime;
 import java.util.Date;
 
 public class HelloWorld {
@@ -9,7 +10,11 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Good Morning Mumbai");
 		Date d = new Date();
+		System.out.println("Today's Date is :-");
 		System.out.println(d);
+		LocalTime t = LocalTime.now();
+		System.out.println("Current Time is :-");
+		System.out.println(t);
 	}
 
 }
