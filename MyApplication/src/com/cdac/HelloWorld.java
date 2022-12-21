@@ -13,7 +13,7 @@ public class HelloWorld {
 		System.out.println("Today's Date is :-");
 		System.out.println(d);
 		LocalTime t = LocalTime.now();
-		System.out.println("Current Time is :-");
+		System.out.println("Current Time is  :-");
 		System.out.println(t);
 	}
 
